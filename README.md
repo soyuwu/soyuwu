@@ -9,6 +9,7 @@ const soyu = {
   pronouns: "he",
   code: [Javascript, Typescript, HTML, CSS, PHP, C++, Python],
   tools: [Laravel, NodeJs, Docker, Git, MySQL, REST api],
+  architecture: [MVC, Headless],
   challenge: "I am studying and doing a project with Laravel + Vite"
 }
 ```
