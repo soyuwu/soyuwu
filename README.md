@@ -1,10 +1,15 @@
 <h2> Hi, I'm Soyu! </h2>
-<p><em>Studying at <a href="https://www.uit.edu.vn">University of Information Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p>
+  <em>
+    Studying at
+    <a href="https://www.uit.edu.vn" >
+      University of Information Technology
+    </a>
+  </em>
 </p>
+<div align="center"><img src="Logo_UIT_updated.svg.webp" width="200" alt="UIT Logo"></div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-### Hi there, I'm Giang 👋
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 <div align="center">
 
@@ -20,7 +25,7 @@
 <h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,nodejs,docker,nginx,git,bash,cpp" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,spring,kotlin,nodejs,docker,nginx,git,bash,cpp,mysql,aws" alt="My Tech Stack" />
   </a>
 </p>
 
@@ -34,6 +39,6 @@
   <a href="https://www.facebook.com/soyu.shinji/">
     <img src="https://img.shields.io/badge/Facebook-Phạm_Trường_Giang-0a66c2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-</p><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</p></em>
 
 ---
